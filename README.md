@@ -1,3 +1,5 @@
-Demo 
+#Demo 
 
-echi "trials learning the process"
+echo "trials learning the process"
+
+#yes we made it
